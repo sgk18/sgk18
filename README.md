@@ -1,21 +1,160 @@
-# 💫 About Me:
-I’m currently working on building and maintaining the official website for the Centre for Peace Praxis, CHRIST (Deemed to be University), with a strong focus on performance optimization, accessibility, and UI/UX design.<br><br>I’m looking to collaborate on frontend and full-stack projects, including institutional websites, portfolios, and meaningful platforms centered around education, communities, and social impact.<br><br>I’m seeking to learn and apply best practices in React and Node.js, and to understand end-to-end full-stack workflows through real-world projects.<br><br>I’m currently learning and working with:<br><br>React.js, Node.js, and advanced JavaScript<br><br>Python for data analysis and automation<br><br>Data analysis using NumPy, Pandas, and Matplotlib<br><br>Anaconda environment for data science workflows<br><br>Performance optimization, clean architecture, and scalable design<br><br>Ask me about:<br>HTML, CSS, Tailwind CSS, JavaScript, React basics, Python, Data Analysis, Anaconda, Lighthouse optimization, Git/GitHub, deployment with Vercel, and leading student-driven projects.
+<!-- Animated Header -->
+<h1 align="center">Hi 👋, I'm Suryachalam</h1>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/suryachalam/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suryachalam18@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sgk18&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sgk18&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sgk18&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sgk18&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=0FF7F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Performance+Focused+Frontend+Engineer;Building+Impact-Driven+Platforms;React+%7C+Node+%7C+Data+Analysis" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sgk18&icon=3&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+I’m currently building and maintaining the **official website for the Centre for Peace Praxis, CHRIST (Deemed to be University)** with a strong focus on:
+
+- ⚡ Performance Optimization (95+ Lighthouse)
+- ♿ Accessibility-First Design
+- 🎨 Clean UI/UX Systems
+- 🏗 Scalable Frontend Architecture
+
+I love building meaningful platforms centered around **education, communities, and social impact.**
+
+---
+
+## 🚀 What I’m Working On
+
+- 🌐 Institutional Website Engineering
+- 🧠 Full-Stack Academic Platforms
+- ⚡ Performance Engineering
+- 🔐 Secure Authentication Systems
+- 📊 Data Analysis & Automation Workflows
+
+---
+
+## 🧠 Currently Learning & Advancing
+
+- Advanced React Patterns (Context, Performance, Memoization)
+- Node.js Backend Architecture
+- REST API & JWT Authentication
+- System Design Fundamentals
+- Realtime Systems (Firebase / WebSockets)
+- Scalable Full-Stack Workflows
+- Data Analysis using Pandas & NumPy
+- Visualization using Matplotlib
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+React.js • Next.js • JavaScript (ES6+) • HTML5 • CSS3 • Tailwind CSS • Bootstrap
+
+### ⚙️ Backend
+Node.js • Express.js • REST APIs • Firebase • MongoDB (Learning)
+
+### 📊 Data & Automation
+Python • NumPy • Pandas • Matplotlib • Anaconda
+
+### 🧰 Tools & Deployment
+Git • GitHub • Vercel • Figma • Canva • VS Code
+
+---
+
+## 🚀 Featured Projects
+
+### 🌟 Centre for Peace Praxis – Official Website
+High-performance institutional platform  
+- Lighthouse Score 95+
+- Fully Responsive
+- Accessibility Optimized
+- SEO Structured
+
+---
+
+### 🧠 NoteNova – Academic Resource Sharing Platform
+Full-stack student collaboration platform  
+- Secure Authentication
+- Resource Upload & Rating
+- Smart Academic Assistant
+- Scalable Architecture
+
+---
+
+### 🎯 Classroom Engagement Platform
+Interactive learning support system  
+- Real-time Polls & Quizzes
+- Analytics Dashboard
+- Faculty Control Panel
+
+---
+
+## 📈 2026 Goals
+
+- 🚀 Build 3 Production-Ready Full-Stack Applications
+- 🧠 Master Backend Architecture
+- 📚 Publish Technical Blogs on Performance
+- 🏆 Win a National-Level Hackathon
+- 🌍 Contribute to Open Source
+
+---
+
+## 🏗 Development Philosophy
+
+- Clean & Maintainable Code
+- Performance First
+- Accessibility as Standard
+- Scalable Design Patterns
+- Build for Real Impact
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/suryachalam/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:suryachalam18@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
+</a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sgk18&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sgk18&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgk18&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sgk18&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+---
+
+## 🤝 Open to Collaborations
+
+I’m open to collaborating on:
+
+- Institutional Websites
+- Educational Platforms
+- AI-powered Web Applications
+- Student-led Tech Initiatives
+- Social Impact Projects
+
+If you're building something meaningful — let’s connect 🚀
+
+---
+
+<p align="center">
+  ⭐ "Turning Ideas Into Scalable Digital Impact"
+</p>
