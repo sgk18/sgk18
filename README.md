@@ -1,140 +1,89 @@
 <h1 align="center">Hi, I'm Surya</h1>
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26size%3D22%26duration%3D3000%26pause%3D800%26color%3D0FF7F7%26center%3Dtrue%26vCenter%3Dtrue%26width%3D600%26lines%3DFull-Stack%2BDeveloper%3BComputer%2BScience%2B%2526%2BMath%2BStudent%3BBuilding%2BImpact-Driven%2BPlatforms%3BNext.js%2B%257C%2BNode%2B%257C%2BPostgreSQL" />
+<img src="https://www.google.com/search?q=https://readme-typing-svg.onrender.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D22%26duration%3D3000%26pause%3D1000%26color%3D0FF7F7%26center%3Dtrue%26vCenter%3Dtrue%26width%3D800%26lines%3DFull-Stack%2BDeveloper%3BComputer%2BScience%2B%2526%2BMath%2BStudent%3BBuilding%2BImpact-Driven%2BPlatforms%3BNext.js%2B%257C%2BNode.js%2B%257C%2BPostgreSQL" alt="Typing Animation" />
+</p>
+
+<p align="center">
+<em>Turning Ideas Into Scalable Digital Impact</em>
 </p>
 
 About Me
-I am a Computer Science and Mathematics student at CHRIST (Deemed to be University), graduating in 2029. Currently, I am building and maintaining the official website for the Centre for Peace Praxis, with a strong focus on:
+I am a Computer Science and Mathematics student at CHRIST (Deemed to be University) (Class of 2029), with a passion for engineering platforms that drive education, community engagement, and social impact.
 
-Performance Optimization (95+ Lighthouse)
+Currently, I am building and maintaining the official website for the Centre for Peace Praxis, focusing heavily on:
 
-Accessibility-First Design
+Performance Optimization (Consistently achieving 95+ Lighthouse scores)
 
-Clean UI/UX Systems
+Accessibility-First Design Principles
 
 Scalable Frontend Architecture
 
-I am passionate about building meaningful platforms centered around education, communities, and social impact, while continually expanding my foundation in data structures, algorithms, and advanced mathematics.
+Beyond the web, I am actively expanding my foundation in data structures, algorithms in C, and advanced mathematics like linear algebra and differential equations.
 
-What I'm Working On
-Institutional Website Engineering
+What I'm Building
+Institutional Engineering: Developing high-performance, SEO-optimized academic platforms.
 
-Full-Stack Academic & Resource Sharing Platforms
+NoteNova: A full-stack campus resource sharing and student collaboration platform featuring real-time messaging and AI-powered learning tools.
 
-Life Organizer & Productivity Super-Apps
+Aegis: A comprehensive life-organizer super-app integrating task management, fitness tracking, and a personalized AI agent.
 
-Secure Authentication Systems
+Database Optimization: Designing secure and efficient architectures using PostgreSQL and Node.js.
 
-Database Management and Optimization
-
-Currently Learning & Advancing
-Data Structures and Algorithms in C
-
-Advanced React and Next.js Patterns
-
-Relational Database Management (SQL, PostgreSQL)
-
-Node.js Backend Architecture
-
-Linear Algebra and Differential Equations
-
-Data Analysis using Pandas and NumPy
-
-Tech Stack
+Technical Arsenal
 Frontend
-React.js • Next.js • JavaScript (ES6+) • HTML5 • CSS3 • Tailwind CSS • Bootstrap
+React.js Next.js JavaScript (ES6+) Tailwind CSS Bootstrap HTML5/CSS3
 
 Backend & Databases
-Node.js • Express.js • PostgreSQL • SQL • Firebase • MongoDB
+Node.js Express.js PostgreSQL SQL MongoDB Firebase
 
-Languages & Data
-C • Python • NumPy • Pandas • Matplotlib
+Languages & Data Analysis
+C Python NumPy Pandas Matplotlib
 
 Tools & Deployment
-Git • GitHub • Vercel • Figma • Canva • VS Code
+Git GitHub Vercel Figma VS Code
 
-Featured Projects
-Centre for Peace Praxis – Official Website
-High-performance institutional platform.
+2026 Objectives
+Ship Production Apps: Launch scalable, real-world versions of NoteNova and Aegis.
 
-Lighthouse Score 95+
+Backend Mastery: Deepen my expertise in backend architecture and complex relational database queries.
 
-Fully Responsive
+Knowledge Sharing: Publish technical articles focusing on frontend performance optimization.
 
-Accessibility Optimized
+Open Source: Expand my contributions to impactful, community-driven projects.
 
-SEO Structured
+Milestones & Achievements
+2nd Place, Frontend Frenzy — Xactitude 2026 IT Fest (Kristu Jayanti University)
 
-NoteNova
-Full-stack campus resource sharing and student collaboration platform.
+3rd Prize, Science Exhibition — National Science Day 2026 (CHRIST University)
 
-Secure Authentication and Real-time Messaging
-
-Resource Upload and Rating System
-
-AI-Powered Learning Tools
-
-Scalable Architecture
-
-Aegis
-Comprehensive life organizer super-app currently in development.
-
-Task Management and Fitness Tracking
-
-Expense Tracking
-
-Personalized AI Agent Integration
-
-2026 Goals
-Launch production-ready full-stack applications like NoteNova and Aegis.
-
-Master backend architecture and complex database queries.
-
-Publish technical blogs on frontend performance optimization.
-
-Expand open-source contributions.
-
-Achievements
-2nd Place, Frontend Frenzy: Xactitude 2026 IT Fest, Kristu Jayanti University
-
-3rd Prize, Science Exhibition: National Science Day 2026, CHRIST University
-
-Connect With Me
+Let's Connect
 <p align="center">
 <a href="https://www.linkedin.com/in/suryachalam/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-blue?style=for-the-badge&logo=linkedin" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Professional%2520Profile-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin" alt="LinkedIn Profile" />
 </a>
 <a href="mailto:suryachalam18@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-Contact%2520Me-EA4335%3Fstyle%3Dfor-the-badge%26logo%3Dgmail" alt="Email Me" />
 </a>
 </p>
 
-GitHub Stats
+GitHub Analytics
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sgk18&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sgk18&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sgk18&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sgk18&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgk18&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgk18&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-Open to Collaborations
-I am open to collaborating on:
-
-Institutional Websites
-
-Educational Platforms
-
-AI-powered Web Applications
-
-Student-led Tech Initiatives
-
-Social Impact Projects
-
-If you are building something meaningful, let's connect.
-
 <p align="center">
-"Turning Ideas Into Scalable Digital Impact"
+<b>Open to Collaborations</b>
+
+
+Institutional Websites | Educational Platforms | AI-powered Web Apps | Social Impact Projects
+
+
+
+<em>If you are building something meaningful, let's connect.</em>
 </p>
