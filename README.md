@@ -93,44 +93,43 @@ Deployment: <add-deployment-link>
 
 ---
 
-## Tech Stack
+## Programming Languages
 
-### Frontend
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwind-css)
-![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
-![Supabase](https://img.shields.io/badge/Supabase-black?style=for-the-badge&logo=supabase)
-
-### AI Systems
-- Local LLMs (Ollama)  
-- Gemini API  
-- Claude API  
-- Agentic Workflows  
-
-### Core Skills
-- System Design  
-- Full-Stack Development  
-- Performance Optimization  
-- Real-Time Systems  
-
-## Engineering Focus
-
-- Scalable frontend architecture  
-- API-first backend design  
-- Efficient database schema design  
-- Performance-first development  
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,sql" />
+</p>
 
 ---
 
+## Tech Stack
+
+<p align="center">
+
+<!-- Frontend -->
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs" /><br/>
+
+<!-- Backend -->
+<img src="https://skillicons.dev/icons?i=nodejs,express" /><br/>
+
+<!-- Databases -->
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase" /><br/>
+
+<!-- Tools -->
+<img src="https://skillicons.dev/icons?i=git,github" />
+
+</p>
+
+---
+
+## Core Competencies
+
+- Full-Stack Development  
+- Systems Design  
+- Data Structures and Algorithms  
+- SQL and Database Design  
+- Performance Optimization  
+- Real-Time Systems  
+- API Design and Backend Architecture  
 ## Currently Learning
 
 - Advanced system design  
