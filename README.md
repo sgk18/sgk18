@@ -96,7 +96,7 @@ Deployment: <add-deployment-link>
 ## Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,sql" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,c,sql" />
 </p>
 
 ---
@@ -114,12 +114,18 @@ Deployment: <add-deployment-link>
 <!-- Databases -->
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase" /><br/>
 
-<!-- Tools -->
-<img src="https://skillicons.dev/icons?i=git,github" />
+<!-- Tools & Platforms -->
+<img src="https://skillicons.dev/icons?i=vercel,git,github,figma" />
 
 </p>
 
 ---
+
+## Tools & Design
+
+- Anaconda (data and environment management)  
+- Canva (design and visual content)  
+- Stitch (AI-assisted development workflows)  
 
 ## Core Competencies
 
@@ -129,7 +135,8 @@ Deployment: <add-deployment-link>
 - SQL and Database Design  
 - Performance Optimization  
 - Real-Time Systems  
-- API Design and Backend Architecture  
+- API Design and Backend Architecture
+
 ## Currently Learning
 
 - Advanced system design  
