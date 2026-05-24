@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=28&duration=3500&pause=800&color=0ABFBC&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Suryachalam+%F0%9F%91%8B;Full-Stack+%26+Product+Engineer;BSc+CS+%26+Mathematics+%40+CHRIST;Building+Things+That+Actually+Work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=28&duration=3500&pause=800&color=0ABFBC&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Suryachalam;Full-Stack+%26+Product+Engineer;BSc+CS+%26+Mathematics+%40+CHRIST;Building+Things+That+Actually+Work" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -18,29 +18,32 @@
 
 I'm a **Computer Science & Mathematics** student at CHRIST University, Bengaluru, currently interning as a **Product Engineer at SOCIO**. I build production-grade full-stack systems — from scalable backend architectures to high-performance frontends — and I care deeply about code that is clean, fast, and built for real users.
 
-- 🏗️ **Currently:** Product Engineering Intern @ SOCIO — shipping real features to real users
-- 🎓 **Studying:** BSc Computer Science & Mathematics (2025–2029), CHRIST University
-- 🔭 **Building:** Scalable full-stack platforms, REST APIs, AI-integrated apps
-- 🧮 **Math Side:** Graph Theory, Discrete Math, competitive problem solving (Madhava Competition '26)
-- 🌱 **Learning:** System Design, Distributed Systems, Cloud Infrastructure, AI Agent Architectures
-- 🤝 **Open to:** Internships, Collaborations, Open Source Contributions
+- **Currently:** Product Engineering Intern @ SOCIO — shipping real features to real users
+- **Studying:** BSc Computer Science & Mathematics (2025–2029), CHRIST University
+- **Building:** Scalable full-stack platforms, REST APIs, AI-integrated apps, mobile applications
+- **Math Side:** Graph Theory, Discrete Math, competitive problem solving (Madhava Competition '26)
+- **Learning:** System Design, Distributed Systems, Cloud Infrastructure, AI Agent Architectures
+- **Open to:** Internships, Collaborations, Open Source Contributions
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-### Frontend
+### Frontend & Mobile
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
@@ -64,7 +67,7 @@ I'm a **Computer Science & Mathematics** student at CHRIST University, Bengaluru
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### Product Engineering Intern — SOCIO *(Apr 2026 – Present)*
 > *Selected via Christ Incubation Centre Foundation (CICF) · On-site, Bengaluru*
@@ -89,32 +92,35 @@ I'm a **Computer Science & Mathematics** student at CHRIST University, Bengaluru
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Stack | Links |
 |---|---|---|---|
-| **SOCIO** | Scalable social platform with backend-driven multi-user architecture | React · Node.js · MongoDB · Supabase | [Repo](https://github.com/sgk18/socio2026v2) |
-| **Neural Breach** | Centralized academic resource-sharing platform — institution-based access control, ratings, advanced search | React · TypeScript · Supabase · PostgreSQL | [Repo](https://github.com/sgk18/NoteNova_Backend) · [Live](https://lnkd.in/gNu6JYTP) |
-| **Aegis** | Productivity & life management platform with modular architecture | React · TypeScript · Supabase | [Repo](https://github.com/sgk18/aegis-web) |
-| **NoteNova** | Academic collaboration backend designed for scalable, multi-institutional workflows | Node.js · Express · PostgreSQL | [Repo](https://github.com/sgk18/NoteNova_Backend) |
-| **SGK18 Portfolio** | Personal developer portfolio — projects, engineering work, live deployments | React · Tailwind · Vercel | [Repo](https://github.com/sgk18/SGK18_Portfolio) · [Live](https://sgk-18-portfolio.vercel.app) |
+| **SOCIO** | Scalable social platform with backend-driven multi-user architecture, real-time interaction, and modular API systems | React · Node.js · MongoDB · Supabase · TypeScript | [Repo](https://github.com/sgk18/socio2026v2) |
+| **SOCIO Mobile** | Cross-platform mobile experience for SOCIO — performance-first, API-connected, hybrid architecture | React · Java · Capacitor · TypeScript · Supabase | [Repo](https://github.com/sgk18/sociomobilev2) |
+| **FacultyApp** | Institutional workflow management system — role-based access, admin operations, academic data management | Next.js · Flutter · PostgreSQL · Supabase · TypeScript | [Repo](https://github.com/sgk18/Facultyapp) |
+| **Aegis** | Modular productivity and life management platform with scalable frontend architecture | React · TypeScript · Supabase · TailwindCSS | [Repo](https://github.com/sgk18/aegis-web) |
+| **NoteNova** | Academic collaboration backend — multi-user resource sharing, REST APIs, institutional-scale PostgreSQL design | Node.js · Express · PostgreSQL · Supabase | [Repo](https://github.com/sgk18/NoteNova_Backend) |
+| **Arcadia** | Modern digital platform with immersive UI, responsive architecture, and clean component systems | React · TailwindCSS · TypeScript | [Repo](https://github.com/sgk18/Arcadia) |
+| **Studio TFA** | Product and creative engineering platform — modular frontend, adaptive layouts, scalable UI workflows | React · TypeScript · TailwindCSS | [Repo](https://github.com/sgk18/Studio-TFA) |
+| **SGK18 Portfolio** | Personal developer portfolio showcasing projects, engineering work, and live deployments | React · Tailwind · Vercel | [Repo](https://github.com/sgk18/SGK18_Portfolio) · [Live](https://sgk-18-portfolio.vercel.app) |
 
 ---
 
-## 🏆 Achievements & Competitions
+## Achievements & Competitions
 
 | Award | Event | Year |
 |---|---|---|
-| 🥈 **Runner-Up** — Frontend Frenzy | Xactitude IT Fest 2026 (Phase 1: pure frontend; Phase 2: AI-assisted) | 2026 |
-| 🥉 **3rd Prize** — National Science Exhibition | National Science Day, CHRIST University School of Sciences | 2026 |
-| 🥇 **1st Place** — Mathematics Premier League | SEQUENCE 2026 Intra-Departmental Math Fest | 2026 |
-| 🎯 **Participant** — Madhava Mathematics Competition | Organized by Bhaskaracharya Pratishthana · Supported by NBHM | 2026 |
-| ⚡ **Finisher** — 24-Hour Solo Hackathon | CHRIST × Pod.ai Hackathon 2026 | 2026 |
-| 🛠️ **Participant** — YUGASTR IT Fest Hackathon | M. S. Ramaiah College of Arts, Science & Commerce | 2026 |
+| **Runner-Up** — Frontend Frenzy | Xactitude IT Fest 2026 · Phase 1: pure frontend (50 min) · Phase 2: AI-assisted (30 min) | 2026 |
+| **3rd Prize** — National Science Exhibition | National Science Day, CHRIST University School of Sciences · Cash Prize: ₹1,000 | 2026 |
+| **1st Place** — Mathematics Premier League | SEQUENCE 2026 Intra-Departmental Math Fest, CHRIST University | 2026 |
+| **Participant** — Madhava Mathematics Competition | Organized by Bhaskaracharya Pratishthana · Supported by NBHM | 2026 |
+| **Finisher** — 24-Hour Solo Hackathon | CHRIST × Pod.ai Hackathon 2026 · Built complete project solo from scratch | 2026 |
+| **Participant** — YUGASTR IT Fest Hackathon | M. S. Ramaiah College of Arts, Science & Commerce | 2026 |
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 - **Graph Theory** — Christ University, Bangalore *(Apr 2026)*
 - **HackerRank Python (Basic)** — HackerRank *(Feb 2026)* · [Verify](https://www.hackerrank.com/certificates/9608697d20e9)
@@ -123,18 +129,19 @@ I'm a **Computer Science & Mathematics** student at CHRIST University, Bengaluru
 
 ---
 
-## 🧠 Core Competencies
+## Core Competencies
 
 ```
-Full-Stack Development       │  REST API Design              │  Authentication Systems
-Frontend Engineering         │  Database Design              │  Real-Time Systems
-Backend Architecture         │  Scalable System Design       │  AI-Integrated Applications
-Performance Optimization     │  Data Structures & Algorithms │  Agile / Sprint Workflows
+Full-Stack Development       |  REST API Design              |  Authentication & Authorization
+Frontend Engineering         |  Database Design              |  Real-Time Systems
+Backend Architecture         |  Scalable System Design       |  AI-Integrated Applications
+Mobile Development           |  Role-Based Access Control    |  Agile / Sprint Workflows
+Performance Optimization     |  Data Structures & Algorithms |  Institutional SaaS Architecture
 ```
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sgk18&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
@@ -147,11 +154,12 @@ Performance Optimization     │  Data Structures & Algorithms │  Agile / Spri
 
 ---
 
-## 🤝 Open to Collaborations
+## Open to Collaborations
 
 I'm actively looking for opportunities in:
 
 - **Full-Stack / Product Engineering Internships**
+- Mobile Application Development (Flutter · React Native · Capacitor)
 - Educational Technology & Community Platforms
 - AI-Powered & Real-Time Applications
 - Developer Tools & Institutional Management Systems
