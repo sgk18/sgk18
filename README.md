@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=26&pause=800&color=0ABFBC&center=true&vCenter=true&width=750&lines=Product+Engineer+%C2%B7+Full-Stack;Building+real+systems+%40+SOCIO;Next.js+%C2%B7+Supabase+%C2%B7+Valkey+%C2%B7+Capacitor;Open+to+Internships+%26+Freelance" alt="Typing SVG" />
 </div><br/>
 <div align="center">
-  <a href="https://linkedin.com/in/suryachalam">
+ <a href="https://linkedin.com/in/suryachalam">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://sgk-18-portfolio.vercel.app">
