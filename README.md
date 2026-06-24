@@ -222,6 +222,45 @@ Coursework: Graph Theory · Discrete Mathematics · Madhava Mathematics Competit
 
 ---
 
+## Engineering Philosophy
+
+Principles that guide every technical decision — from database schema design to how a function is named.
+
+| # | Principle | Practice |
+|---|---|---|
+| 01 | **Build for the next engineer** | Code is read far more than it is written. Every abstraction and system boundary should communicate intent — not just to machines, but to the person on-call at 2am. |
+| 02 | **Measure before you optimize** | Instrument first, identify the actual bottleneck, then fix it. A cache that solves the wrong problem is technical debt disguised as performance. |
+| 03 | **Prefer simple, push complexity to the edges** | A boring architecture that solves the problem beats an elegant one that introduces six new failure modes. Complexity should live at the boundaries where it's most visible and testable. |
+| 04 | **Security is architecture, not a checklist** | Authorization enforced only at the API layer is one bug away from a breach. Defense-in-depth means RLS at the database, scoped tokens at the API, and input validation at every boundary. |
+| 05 | **Ship working software, then make it good** | A perfect system that never ships helps no one. Deliver value incrementally, with enough architecture to avoid rewriting everything in six months. |
+| 06 | **Understand the why before the how** | Every technology choice carries tradeoffs. Picking a tool without understanding what problems it solves means inheriting its complexity without leveraging its strengths. |
+
+---
+
+## Volunteer & Leadership
+
+| Role | Organization | Year |
+|---|---|---|
+| Guest Speaker & Workshop Facilitator | "Build Your Professional Identity from Day 1" — Junior Orientation, CHRIST University | Jun 2026 |
+| Industry Delegate Host | Industry-Academia Conclave '26, School of Sciences, CHRIST University | 2026 |
+| Moderator | inbloom eSports — Science and Technology (Chess.com tournament) | 2025 |
+| Volunteer | INTERFACE 2025, Department of Computer Science, CHRIST University | 2025 |
+
+---
+
+## Certifications
+
+| Certification | Issuer | Valid |
+|---|---|---|
+| Oracle Data Platform 2025 Foundations Associate (1Z0-1195-25) | Oracle University | Through May 2028 |
+| Graph Theory | CHRIST University | 2025 |
+| Python (Basic) | HackerRank | 2025 |
+| SQL (Basic) | HackerRank | 2025 |
+| C Programming | Infosys Springboard | 2025 |
+| AI Prompt Engineering | Microsoft | 2025 |
+
+---
+
 ## Let's Work Together
 
 Open to **internships**, **freelance projects**, and **collaborations** — full-stack product engineering, hybrid mobile, real-time/offline-first systems, EdTech, and AI-integrated applications.
