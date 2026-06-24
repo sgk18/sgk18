@@ -1,20 +1,23 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=26&pause=800&color=0ABFBC&center=true&vCenter=true&width=750&lines=Product+Engineer+%C2%B7+Full-Stack;Building+real+systems+%40+SOCIO;Next.js+%C2%B7+Supabase+%C2%B7+Valkey+%C2%B7+Capacitor;Open+to+Internships+%26+Freelance" alt="Typing SVG" />
-</div><br/>
+</div>
+
+<br/>
+
 <div align="center">
- <a href="https://linkedin.com/in/suryachalam">
+  <a href="https://linkedin.com/in/suryachalam">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://sgk-18-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
   <a href="mailto:suryachalam18@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=sgk18&style=for-the-badge&color=0abfbc&label=PROFILE+VIEWS"/>
 </div>
 
-<br/>
+---
 
 I build production systems — not tutorial projects. Right now I'm shipping features for **SOCIO**, a hybrid campus event platform with real users, real events, and a backend that holds up under load. My work spans the full stack: frontend interfaces people enjoy using, backend architectures that don't fall over, offline-first mobile systems, and push infrastructure that actually delivers. I care about the details — the cache hit rate, the sync conflict resolution, the 200ms QR scan that works without Wi-Fi.
 
@@ -26,28 +29,32 @@ I build production systems — not tutorial projects. Right now I'm shipping fea
 
 ---
 
-## 🔨 Currently building
+## Currently Building
 
 | What | Where | Status |
 |---|---|---|
-| Offline-first QR + push notification infra | SOCIO @ internship | 🟢 Shipping |
-| Studio TFA creative e-commerce platform | Freelance client | 🟡 In progress |
-| System design & distributed systems | Self-study | 🔵 Ongoing |
+| Offline-first QR + push notification infra | SOCIO — Internship | Active |
+| Studio TFA creative e-commerce platform | Freelance client | In progress |
+| Atlas — Career management platform + recruiter CRM | Personal project | Shipped |
+| System design & distributed systems | Self-study | Ongoing |
 
 ---
 
-## 🚀 Featured — SOCIO
+## Featured — SOCIO
 
-> *Product Engineering Intern · Apr 2026 – Present · Selected via CICF · On-site, Bengaluru*
+> **Product Engineering Intern · Apr 2026 – Present · Selected via CICF · On-site, Bengaluru**
 
 A full-scale hybrid campus event platform — event discovery, QR ticketing, offline-first scanning, push notifications, and role-based dashboards. Ships simultaneously as a web app, PWA, and native Android APK.
 
 **What I own end-to-end:**
-- Offline-first QR attendance scanner with IndexedDB/Dexie sync and duplicate detection — works with zero connectivity
-- Push notification infra across OneSignal, Firebase FCM, and VAPID/Web Push
-- In-memory caching and session management layer using Valkey
-- Role-based dashboards for organizers, admins, and attendees
-- Native Android APK via Capacitor maintained alongside the web build
+
+| Ownership Area | Details |
+|---|---|
+| Offline-first QR attendance scanner | IndexedDB/Dexie sync, duplicate detection — zero-connectivity operation |
+| Push notification infrastructure | OneSignal, Firebase FCM, and VAPID/Web Push across all client types |
+| In-memory caching & session layer | Valkey — cache management and session lifecycle |
+| Role-based dashboards | Organizer, admin, and attendee views with scoped permissions |
+| Native Android APK | Capacitor build maintained alongside the web client |
 
 **Stack:**
 
@@ -60,44 +67,97 @@ A full-scale hybrid campus event platform — event discovery, QR ticketing, off
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
 ![OneSignal](https://img.shields.io/badge/OneSignal-E54B4D?style=flat-square&logo=onesignal&logoColor=white)
 
-→ [View Repo](https://github.com/sgk18/socio2026v2) · [Mobile Client](https://github.com/sgk18/sociomobilev2)
+[View Repo](https://github.com/sgk18/socio2026v2) · [Mobile Client](https://github.com/sgk18/sociomobilev2)
 
 ---
 
-## 📦 More projects
+## Featured — Atlas
+
+> **Personal Project · Career Management Platform + Recruiter CRM**
+
+A production-grade, centralized career management system — consolidating professional branding, recruiter relationship management, application pipelines, and proactive deadline tracking. Combines an immersive WebGL portfolio with a telemetry-driven admin console, a two-way email CRM, and an automated background deadline auditing daemon.
+
+**What's under the hood:**
+
+| Subsystem | Implementation |
+|---|---|
+| Recruiter CRM & threading | Two-way SMTP threading via Resend webhooks (`In-Reply-To` header matching) |
+| Telemetry analytics | SHA-256 IP hashing for privacy-preserving unique visitor tracking |
+| Deadline intelligence engine | Automated expiry detection, IST-aligned digest emails at 8AM/8PM |
+| GitHub caching engine | In-memory TTL cache with rate-limit fallback across top 20 repos |
+| Security layer | Honeypot + IP rate limiter + Zod validation + sessionless header auth |
+| Database | 17 Prisma models on SQLite/LibSQL — zero-code upgrade path to Turso edge |
+
+**Stack:**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-1B222D?style=flat-square&logo=prisma&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+[View Repo](https://github.com/sgk18/SGK18_Portfolio) · [Live](https://sgk-18-portfolio.vercel.app)
+
+---
+
+## Projects
 
 | Project | What it is | Stack | Links |
 |---|---|---|---|
-| **Studio TFA** | Creative studio e-commerce — modular frontend, adaptive layouts | React · TypeScript · Tailwind | [Repo](https://github.com/sgk18/Studio-TFA) · Live |
+| **Studio TFA** | Creative studio e-commerce — modular frontend, adaptive layouts, Razorpay payments | React · TypeScript · Next.js · Supabase · Razorpay | [Repo](https://github.com/sgk18/Studio-TFA) |
 | **FacultyApp** | Institutional workflow system — role-based access, academic data management | Next.js · Flutter · Supabase | [Repo](https://github.com/sgk18/Facultyapp) |
 | **NoteNova Backend** | Multi-user academic resource sharing — REST APIs, institutional-scale PostgreSQL | Node.js · Express · PostgreSQL | [Repo](https://github.com/sgk18/NoteNova_Backend) |
-| **Aegis** | Modular productivity platform with scalable frontend architecture | React · TypeScript · Supabase | [Repo](https://github.com/sgk18/aegis-web) |
-| **SGK18 Portfolio** | Personal dev portfolio — live projects, engineering work | React · Tailwind · Vercel | [Repo](https://github.com/sgk18/SGK18_Portfolio) · [Live](https://sgk-18-portfolio.vercel.app) |
+| **Stockox** | AI-powered investment intelligence — multi-agent committee with Research, Technical, News, and Risk agents | Next.js · Go/Gin · Supabase · Redis · LangGraph · CrewAI | [Live](https://stockox.vercel.app) |
+| **Aegis** | Modular productivity platform — scalable frontend architecture | React · TypeScript · Supabase | [Repo](https://github.com/sgk18/aegis-web) |
 
 ---
 
-## 🛠 Stack I actually use
+## Tech Stack
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
-![Valkey](https://img.shields.io/badge/Valkey-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+### Languages
 
-**Also working with:** Flutter · Firebase FCM · VAPID · Web Push · Service Workers · IndexedDB/Dexie · Python · Java
+| | | | | | | | |
+|---|---|---|---|---|---|---|---|
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
+
+### Frontend
+
+| | | | | | | | |
+|---|---|---|---|---|---|---|---|
+| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) | ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black) |
+| ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white) | ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white) | ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white) | | | | | |
+
+### Backend & Infrastructure
+
+| | | | | | | | |
+|---|---|---|---|---|---|---|---|
+| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) | ![Go/Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white) | ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
+
+### Databases & Data
+
+| | | | | | | | |
+|---|---|---|---|---|---|---|---|
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) | ![Valkey](https://img.shields.io/badge/Valkey-DC382D?style=flat-square&logo=redis&logoColor=white) | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) | ![Prisma](https://img.shields.io/badge/Prisma-1B222D?style=flat-square&logo=prisma&logoColor=white) |
+| ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white) | | | | | | |
+
+### AI & Tooling
+
+| | | | | | | |
+|---|---|---|---|---|---|---|
+| ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white) | ![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=flat-square&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) | ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white) | ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) | ![Numpy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) | |
+
+**Also working with:** Service Workers · IndexedDB/Dexie · Web Push/VAPID · OneSignal · SMTP Threading · WebGL
 
 **Actively learning:** System Design · Distributed Systems · Cloud Infrastructure · AI Agent Architectures
 
 ---
 
-## 📊 GitHub stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sgk18&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="49%"/>
@@ -116,7 +176,7 @@ A full-scale hybrid campus event platform — event discovery, QR ticketing, off
 
 ---
 
-## 🐍 Contributions
+## Contributions
 
 <div align="center">
   <picture>
@@ -127,27 +187,44 @@ A full-scale hybrid campus event platform — event discovery, QR ticketing, off
 
 ---
 
-## 🧭 Background
+## Background
 
 **Experience**
-- **Product Engineering Intern @ SOCIO** *(Apr 2026 – Present)* — Selected via CICF · On-site, Bengaluru
-- **Web Developer @ Centre for Peace Praxis, CHRIST** *(Jul 2025 – Present)* — Institutional site, frontend performance, deployment
+
+| Role | Organization | Period |
+|---|---|---|
+| Product Engineering Intern | SOCIO — CICF, CHRIST University | Apr 2026 – Present |
+| Web Developer | Centre for Peace Praxis, CHRIST University | Jul 2025 – Present |
 
 **Education**
-- BSc Computer Science & Mathematics, CHRIST University, Bengaluru *(2025–2029)*
-- Graph Theory · Discrete Math · Madhava Mathematics Competition '26
 
-**Recent wins**
-- 🥈 Runner-Up — Frontend Frenzy, Xactitude IT Fest 2026
-- 🥇 1st Place — Mathematics Premier League, SEQUENCE 2026
-- 🏁 Finisher — 24-Hour Solo Hackathon, CHRIST × Pod.ai 2026
-- 🥉 3rd Prize — National Science Exhibition, CHRIST University 2026
+| Degree | Institution | Period |
+|---|---|---|
+| BSc Computer Science & Mathematics | CHRIST University, Bengaluru | 2025 – 2029 |
+
+Coursework: Graph Theory · Discrete Mathematics · Madhava Mathematics Competition '26
+
+**Certifications**
+
+| Certification | Issuer | Year |
+|---|---|---|
+| Oracle Data Platform 2025 Foundations Associate (1Z0-1195-25) | Oracle | 2025 |
+| SQL (Basic) | HackerRank | 2025 |
+
+**Wins**
+
+| Achievement | Event | Year |
+|---|---|---|
+| Runner-Up | Frontend Frenzy, Xactitude IT Fest 2026 | 2026 |
+| 1st Place | Mathematics Premier League, SEQUENCE 2026 | 2026 |
+| Finisher | 24-Hour Solo Hackathon, CHRIST × Pod.ai | 2026 |
+| 3rd Prize | National Science Exhibition, CHRIST University | 2026 |
 
 ---
 
-## 📬 Let's work together
+## Let's Work Together
 
-Open to **internships**, **freelance projects**, and **collaborations** — especially in full-stack product engineering, hybrid mobile, real-time/offline-first systems, EdTech, and AI-integrated applications.
+Open to **internships**, **freelance projects**, and **collaborations** — full-stack product engineering, hybrid mobile, real-time/offline-first systems, EdTech, and AI-integrated applications.
 
 <div align="center">
   <a href="https://linkedin.com/in/suryachalam">
