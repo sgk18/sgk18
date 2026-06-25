@@ -8,7 +8,7 @@
   <a href="https://linkedin.com/in/suryachalam">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://sgk-18-portfolio.vercel.app">
+  <a href="https://suryachalam.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="mailto:suryachalam18@gmail.com">
