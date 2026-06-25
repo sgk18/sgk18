@@ -101,7 +101,7 @@ A production-grade, centralized career management system — consolidating profe
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-[View Repo](https://github.com/sgk18/SGK18_Portfolio) · [Live](https://sgk-18-portfolio.vercel.app)
+[View Repo](https://github.com/sgk18/SGK18_Portfolio) · [Live](https://suryachalam.vercel.app)
 
 ---
 
@@ -270,7 +270,7 @@ Open to **internships**, **freelance projects**, and **collaborations** — full
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://sgk-18-portfolio.vercel.app">
+  <a href="https://suryachalam.vercel.app">
     <img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   &nbsp;
