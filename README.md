@@ -23,47 +23,12 @@
 
 ---
 
-### 🌟 Flagship Systems
-
-<table>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/sgk18/socio2026v2">
-        <img src="./assets/socio.png" alt="SOCIO Platform" width="220" />
-      </a>
-      <br/><br/>
-      <b>SOCIO · Campus Event Operating System</b>
-      <p align="left">
-        <b>Role:</b> Product Engineering Intern · CICF, CHRIST University<br/>
-        <b>Architecture:</b> Hybrid Web app, PWA, and native Android APK (Capacitor). Zero-connectivity QR attendance verification, OneSignal/FCM push dispatch, and Valkey session caching.
-      </p>
-      <p align="center">
-        <a href="https://github.com/sgk18/socio2026v2"><img src="https://img.shields.io/badge/Web_Client-Repo-000000?style=flat-square&logo=github" /></a>
-        <a href="https://github.com/sgk18/sociomobilev2"><img src="https://img.shields.io/badge/Mobile_APK-Repo-119EFF?style=flat-square&logo=capacitor&logoColor=white" /></a>
-      </p>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://suryachalam.vercel.app">
-        <img src="./assets/atlas.png" alt="Atlas Dashboard" width="280" />
-      </a>
-      <br/><br/>
-      <b>Atlas · Career OS &amp; Recruiter CRM</b>
-      <p align="left">
-        <b>Role:</b> Creator &amp; Systems Architect<br/>
-        <b>Architecture:</b> Full-stack platform featuring two-way Resend SMTP threading (<code>In-Reply-To</code> resolution), 0-cookie SHA-256 telemetry analytics, and a proactive 43-window deadline audit daemon.
-      </p>
-      <p align="center">
-        <a href="https://suryachalam.vercel.app"><img src="https://img.shields.io/badge/Live_Site-suryachalam.vercel.app-E3000F?style=flat-square&logo=vercel&logoColor=white" /></a>
-        <a href="https://github.com/sgk18/SGK18_Portfolio"><img src="https://img.shields.io/badge/Source-Repo-000000?style=flat-square&logo=github" /></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-#### 🚀 Selected Work
+### Projects
 
 | Project | Description | Stack | Links |
 | :--- | :--- | :--- | :--- |
+| **SOCIO** | Campus event OS — hybrid Web, PWA &amp; native Android APK with offline-first QR check-in &amp; push dispatch | `Next.js` `Supabase` `Valkey` `Capacitor` `IndexedDB` | [Web Repo](https://github.com/sgk18/socio2026v2) · [Mobile APK](https://github.com/sgk18/sociomobilev2) |
+| **Atlas** | Career OS &amp; recruiter CRM — two-way Resend SMTP threading, SHA-256 telemetry &amp; proactive deadline daemon | `Next.js 16` `React 19` `Turso LibSQL` `Prisma 7` `Resend` | [Live Site](https://suryachalam.vercel.app) · [Source](https://github.com/sgk18/SGK18_Portfolio) |
 | **Studio TFA** | Creative studio e-commerce — adaptive layouts, dynamic catalog &amp; Razorpay checkout | `Next.js` `TypeScript` `Supabase` `Razorpay` | [Repository](https://github.com/sgk18/Studio-TFA) |
 | **Stockox** | AI investment intelligence — autonomous 4-agent committee (Research, Tech, News, Risk) | `Next.js` `Go/Gin` `LangGraph` `CrewAI` `Supabase` | [Live Demo](https://stockox.vercel.app) |
 | **FacultyApp** | Institutional academic workflow — role-based access &amp; departmental data management | `Next.js` `Flutter` `Supabase` `PostgreSQL` | [Repository](https://github.com/sgk18/Facultyapp) |
@@ -71,7 +36,7 @@
 
 ---
 
-### 🛠️ Technical Arsenal
+### Technical Skills
 
 <p align="left">
   <b>Languages:</b><br/>
@@ -131,7 +96,7 @@
 
 ---
 
-### 📊 GitHub Activity &amp; Analytics
+### GitHub Analytics
 
 <div align="center">
   <a href="https://github.com/sgk18">
@@ -155,7 +120,7 @@
 
 ---
 
-### 🎓 Background, Awards &amp; Credentials
+### Background, Awards &amp; Credentials
 
 | Category | Details | Period / Issuer |
 | :--- | :--- | :--- |
@@ -168,17 +133,17 @@
 | **Recognition** | **3rd Prize** · National Science Exhibition, CHRIST University | 2026 |
 
 <details>
-<summary><b>💡 View Engineering Philosophy &amp; Leadership (Click to Expand)</b></summary>
+<summary><b>View Engineering Philosophy &amp; Leadership (Click to Expand)</b></summary>
 <br/>
 
-#### 🧭 Engineering Principles
+#### Engineering Principles
 1. **Build for the next engineer:** Code is read far more than written. Abstractions should communicate intent clearly.
 2. **Measure before optimizing:** Instrument and locate actual bottlenecks; avoid premature caching.
 3. **Push complexity to the edges:** Simple architectures with clear boundaries prevent cascading bugs.
 4. **Security in depth:** Defense-in-depth across database RLS, API token scoping, and input validation.
 5. **Ship working software:** Deliver incrementally with scalable architecture.
 
-#### 🤝 Leadership &amp; Community
+#### Leadership &amp; Community
 * **Workshop Facilitator:** *"Build Your Professional Identity from Day 1"* — Junior Orientation, CHRIST University (Jun 2026)
 * **Industry Delegate Host:** Industry-Academia Conclave '26, School of Sciences, CHRIST University
 * **Moderator:** inbloom eSports — Science and Technology (Chess.com tournament, 2025)
@@ -189,7 +154,7 @@
 ---
 
 <div align="center">
-  <h3>🤝 Let's Collaborate</h3>
+  <h3>Let's Collaborate</h3>
   <p>Available for <b>Product Engineering Internships</b>, <b>Distributed Systems</b>, and <b>Freelance Full-Stack Projects</b>.</p>
   
   <p>
