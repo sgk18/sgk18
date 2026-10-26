@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://suryachalam.vercel.app">
-    <img src="./assets/header.svg" alt="Surya Chalam (SGK18) - Product Engineer" width="100%" />
+    <img src="./assets/header.svg" alt="Suryachalam V M (SGK18) - Product Engineer" width="100%" />
   </a>
 </div>
 
@@ -9,7 +9,10 @@
     <img src="https://img.shields.io/badge/Portfolio-suryachalam.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/suryachalam">
-    <img src="https://img.shields.io/badge/LinkedIn-Surya_Chalam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Suryachalam_V_M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/919844588551">
+    <img src="https://img.shields.io/badge/Phone-+91_9844588551-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
   </a>
   <a href="mailto:suryachalam18@gmail.com">
     <img src="https://img.shields.io/badge/Email-suryachalam18@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -186,11 +189,35 @@
 ---
 
 <div align="center">
-  <h3>🤝 Let's Connect</h3>
-  <p>Open to <b>Product Engineering Internships</b>, <b>Distributed Systems</b>, and <b>Freelance Full-Stack Projects</b>.</p>
-  <a href="https://linkedin.com/in/suryachalam">LinkedIn</a> · 
-  <a href="https://suryachalam.vercel.app">Portfolio</a> · 
-  <a href="mailto:suryachalam18@gmail.com">suryachalam18@gmail.com</a>
-  <br/><br/>
-  <sub><em>Surya Chalam · BSc Computer Science &amp; Mathematics · CHRIST University, Bengaluru</em></sub>
+  <h3>🤝 Let's Collaborate</h3>
+  <p>Available for <b>Product Engineering Internships</b>, <b>Distributed Systems</b>, and <b>Freelance Full-Stack Projects</b>.</p>
+  
+  <p>
+    <a href="https://linkedin.com/in/suryachalam">
+      <img src="https://img.shields.io/badge/LinkedIn-Suryachalam_V_M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="https://wa.me/919844588551">
+      <img src="https://img.shields.io/badge/WhatsApp_/_Call-+91_9844588551-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+    </a>
+    &nbsp;
+    <a href="https://suryachalam.vercel.app">
+      <img src="https://img.shields.io/badge/Portfolio-suryachalam.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+    &nbsp;
+    <a href="mailto:suryachalam18@gmail.com">
+      <img src="https://img.shields.io/badge/Email-suryachalam18@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+
+  <p>
+    <img src="./assets/sprites/terminal.gif" width="32" height="32" alt="Terminal" />&nbsp;
+    <img src="./assets/sprites/nextjs.gif" width="32" height="32" alt="Next.js" />&nbsp;
+    <img src="./assets/sprites/react.gif" width="32" height="32" alt="React" />&nbsp;
+    <img src="./assets/sprites/typescript.gif" width="32" height="32" alt="TypeScript" />&nbsp;
+    <img src="./assets/sprites/ai.gif" width="32" height="32" alt="AI Engine" />
+  </p>
+
+  <sub><b>Suryachalam V M</b> · BSc Computer Science &amp; Mathematics · CHRIST University, Bengaluru</sub><br/>
+  <sub>Direct: <b>+91 9844588551</b> · <b>suryachalam18@gmail.com</b></sub>
 </div>
