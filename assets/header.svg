@@ -1,0 +1,165 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 330" width="100%" height="auto" style="background: transparent; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Inter', 'SF Pro Display', sans-serif;">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080D1A" />
+      <stop offset="50%" stop-color="#0B132B" />
+      <stop offset="100%" stop-color="#050811" />
+    </linearGradient>
+
+    <!-- Glowing Accent Gradients -->
+    <linearGradient id="cyanBlueGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0ABFBC" />
+      <stop offset="50%" stop-color="#38BDF8" />
+      <stop offset="100%" stop-color="#818CF8" />
+    </linearGradient>
+
+    <linearGradient id="cardGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#111C38" stop-opacity="0.85" />
+      <stop offset="100%" stop-color="#0B1326" stop-opacity="0.85" />
+    </linearGradient>
+
+    <!-- Grid Pattern -->
+    <pattern id="headerGrid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#1E293B" stroke-width="0.75" stroke-opacity="0.6"/>
+    </pattern>
+
+    <!-- Soft Glow Filter -->
+    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="24" result="blur" />
+    </filter>
+
+    <!-- Card Clip Boundary -->
+    <clipPath id="cardClip">
+      <rect x="8" y="8" width="934" height="314" rx="16" />
+    </clipPath>
+  </defs>
+
+  <!-- Clipped Card Body -->
+  <g clip-path="url(#cardClip)">
+    <!-- Deep Card Background -->
+    <rect x="8" y="8" width="934" height="314" fill="url(#bgGrad)" />
+
+    <!-- Ambient Glowing Orbs Inside Card -->
+    <circle cx="140" cy="90" r="130" fill="#0ABFBC" opacity="0.18" filter="url(#softGlow)" />
+    <circle cx="830" cy="180" r="150" fill="#3B82F6" opacity="0.20" filter="url(#softGlow)" />
+    <circle cx="480" cy="280" r="100" fill="#818CF8" opacity="0.15" filter="url(#softGlow)" />
+
+    <!-- Subtle Tech Grid -->
+    <rect x="8" y="8" width="934" height="314" fill="url(#headerGrid)" />
+
+    <!-- Inner Top HUD Window Bar -->
+    <path d="M 8 24 C 8 15.16 15.16 8 24 8 L 926 8 C 934.84 8 942 15.16 942 24 L 942 46 L 8 46 Z" fill="#0F172A" fill-opacity="0.92" stroke="#1E293B" stroke-width="1" />
+    
+    <!-- Window Controls -->
+    <circle cx="30" cy="27" r="5" fill="#EF4444" />
+    <circle cx="46" cy="27" r="5" fill="#F59E0B" />
+    <circle cx="62" cy="27" r="5" fill="#10B981" />
+
+    <!-- Terminal Session Info -->
+    <text x="84" y="31" font-size="11.5" font-family="'JetBrains Mono', 'Fira Code', monospace" font-weight="600" fill="#94A3B8">sgk18@christ-dev:~ (product-engineer)</text>
+
+    <!-- Status Indicator Badge (Top Right) -->
+    <g transform="translate(680, 16)">
+      <rect x="0" y="0" width="240" height="22" rx="11" fill="#064E3B" fill-opacity="0.6" stroke="#10B981" stroke-width="1" />
+      <circle cx="14" cy="11" r="4" fill="#34D399">
+        <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite" />
+      </circle>
+      <text x="26" y="15" font-size="9.5" font-weight="700" fill="#34D399" letter-spacing="0.5">OPEN TO INTERNSHIPS &amp; FREELANCE</text>
+    </g>
+
+    <!-- Hero Main Body -->
+    <g transform="translate(36, 74)">
+      <!-- Small Category Pill -->
+      <rect x="0" y="0" width="138" height="20" rx="4" fill="#0ABFBC" fill-opacity="0.15" stroke="#0ABFBC" stroke-opacity="0.4" stroke-width="1" />
+      <text x="69" y="14" font-size="9" font-weight="800" fill="#0ABFBC" text-anchor="middle" letter-spacing="1.2">SYSTEMS &amp; MOBILE</text>
+
+      <!-- Main Name Title -->
+      <text x="0" y="58" font-size="40" font-weight="900" fill="url(#cyanBlueGrad)" letter-spacing="-0.8">SURYA CHALAM</text>
+      
+      <!-- Role Subheading -->
+      <text x="0" y="86" font-size="15" font-weight="600" fill="#F1F5F9" letter-spacing="0.2">
+        Product Engineer · Full-Stack Systems &amp; Offline-First Mobile Architect
+      </text>
+
+      <!-- Bio Description -->
+      <text x="0" y="108" font-size="12" font-weight="400" fill="#94A3B8">
+        Building real-world event platforms, high-throughput caching layers, and career management operating systems.
+      </text>
+    </g>
+
+    <!-- 3 Mini Highlight Architecture Cards -->
+    <g transform="translate(36, 206)">
+      <!-- Card 1: SOCIO -->
+      <g transform="translate(0, 0)">
+        <rect x="0" y="0" width="278" height="66" rx="8" fill="url(#cardGrad1)" stroke="#334155" stroke-width="1" />
+        <rect x="10" y="10" width="6" height="46" rx="3" fill="#0ABFBC" />
+        <text x="26" y="26" font-size="12.5" font-weight="800" fill="#F8FAFC">SOCIO Platform</text>
+        <text x="135" y="26" font-size="9" font-weight="600" fill="#0ABFBC">INTERNSHIP</text>
+        <text x="26" y="43" font-size="10" font-weight="500" fill="#94A3B8">Offline-First QR Scanner · IndexedDB</text>
+        <text x="26" y="56" font-size="9.5" font-weight="600" fill="#38BDF8">Valkey · Supabase · Capacitor APK</text>
+      </g>
+
+      <!-- Card 2: Atlas -->
+      <g transform="translate(298, 0)">
+        <rect x="0" y="0" width="278" height="66" rx="8" fill="url(#cardGrad1)" stroke="#334155" stroke-width="1" />
+        <rect x="10" y="10" width="6" height="46" rx="3" fill="#3B82F6" />
+        <text x="26" y="26" font-size="12.5" font-weight="800" fill="#F8FAFC">Atlas Career OS</text>
+        <text x="145" y="26" font-size="9" font-weight="600" fill="#3B82F6">PRODUCTION</text>
+        <text x="26" y="43" font-size="10" font-weight="500" fill="#94A3B8">Two-Way Resend SMTP CRM · Daemon</text>
+        <text x="26" y="56" font-size="9.5" font-weight="600" fill="#60A5FA">Next.js 16 · Prisma 7 · Turso LibSQL</text>
+      </g>
+
+      <!-- Card 3: Academics & Recognition -->
+      <g transform="translate(596, 0)">
+        <rect x="0" y="0" width="278" height="66" rx="8" fill="url(#cardGrad1)" stroke="#334155" stroke-width="1" />
+        <rect x="10" y="10" width="6" height="46" rx="3" fill="#818CF8" />
+        <text x="26" y="26" font-size="12.5" font-weight="800" fill="#F8FAFC">CHRIST University</text>
+        <text x="165" y="26" font-size="9" font-weight="600" fill="#818CF8">2025–2029</text>
+        <text x="26" y="43" font-size="10" font-weight="500" fill="#94A3B8">BSc Computer Science &amp; Mathematics</text>
+        <text x="26" y="56" font-size="9.5" font-weight="600" fill="#A5B4FC">Runner-Up Frontend Frenzy '26</text>
+      </g>
+    </g>
+
+    <!-- Bottom Mini Tech Pills Strip -->
+    <g transform="translate(36, 288)">
+      <text x="0" y="16" font-size="10" font-weight="700" fill="#64748B" letter-spacing="1">CORE STACK</text>
+      
+      <!-- Pills -->
+      <g transform="translate(90, 4)">
+        <rect x="0" y="0" width="68" height="18" rx="4" fill="#1E293B" stroke="#334155" stroke-width="0.8" />
+        <text x="34" y="12.5" font-size="9" font-weight="700" fill="#F1F5F9" text-anchor="middle">Next.js 16</text>
+
+        <rect x="76" y="0" width="64" height="18" rx="4" fill="#1E293B" stroke="#334155" stroke-width="0.8" />
+        <text x="108" y="12.5" font-size="9" font-weight="700" fill="#61DAFB" text-anchor="middle">React 19</text>
+
+        <rect x="148" y="0" width="76" height="18" rx="4" fill="#1E293B" stroke="#334155" stroke-width="0.8" />
+        <text x="186" y="12.5" font-size="9" font-weight="700" fill="#38BDF8" text-anchor="middle">TypeScript</text>
+
+        <rect x="232" y="0" width="72" height="18" rx="4" fill="#1E293B" stroke="#334155" stroke-width="0.8" />
+        <text x="268" y="12.5" font-size="9" font-weight="700" fill="#34D399" text-anchor="middle">Supabase</text>
+
+        <rect x="312" y="0" width="58" height="18" rx="4" fill="#1E293B" stroke="#334155" stroke-width="0.8" />
+        <text x="341" y="12.5" font-size="9" font-weight="700" fill="#F87171" text-anchor="middle">Valkey</text>
+
+        <rect x="378" y="0" width="78" height="18" rx="4" fill="#1E293B" stroke="#334155" stroke-width="0.8" />
+        <text x="417" y="12.5" font-size="9" font-weight="700" fill="#38BDF8" text-anchor="middle">Capacitor APK</text>
+
+        <rect x="464" y="0" width="80" height="18" rx="4" fill="#1E293B" stroke="#334155" stroke-width="0.8" />
+        <text x="504" y="12.5" font-size="9" font-weight="700" fill="#A78BFA" text-anchor="middle">PostgreSQL</text>
+
+        <rect x="552" y="0" width="62" height="18" rx="4" fill="#1E293B" stroke="#334155" stroke-width="0.8" />
+        <text x="583" y="12.5" font-size="9" font-weight="700" fill="#CBD5E1" text-anchor="middle">Three.js</text>
+
+        <rect x="622" y="0" width="60" height="18" rx="4" fill="#1E293B" stroke="#334155" stroke-width="0.8" />
+        <text x="652" y="12.5" font-size="9" font-weight="700" fill="#60A5FA" text-anchor="middle">Docker</text>
+
+        <rect x="690" y="0" width="96" height="18" rx="4" fill="#1E293B" stroke="#334155" stroke-width="0.8" />
+        <text x="738" y="12.5" font-size="9" font-weight="700" fill="#0ABFBC" text-anchor="middle">Offline-First PWA</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- Clean Border Around Card -->
+  <rect x="8" y="8" width="934" height="314" rx="16" fill="none" stroke="#1E293B" stroke-width="1.5" />
+</svg>
