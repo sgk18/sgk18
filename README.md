@@ -1,7 +1,4 @@
 <div align="center">
-  <a href="https://suryachalam.vercel.app">
-    <img src="./assets/header.svg" alt="Suryachalam V M (SGK18) - Product Engineer" width="100%" />
-  </a>
 </div>
 
 <div align="center">
