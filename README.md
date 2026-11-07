@@ -1,6 +1,5 @@
 <div align="center">
 </div>
-
 <div align="center">
   <a href="https://suryachalam.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-suryachalam.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
